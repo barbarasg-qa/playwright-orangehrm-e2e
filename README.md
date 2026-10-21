@@ -40,5 +40,8 @@ Demonstrar a aplicação de boas práticas em automação de testes utilizando o
 
 ### Passo a Passo
 
-1. **Clonar o repositório:** git clone [https://github.com/barbarasg-qa/playwright-orangehrm-e2e.git](https://github.com/barbarasg-qa/playwright-orangehrm-e2e.git)
+### Passo a Passo
+
+1. **Clonar o repositório:**
+   git clone https://github.com/barbarasg-qa/playwright-orangehrm-e2e.git
    cd playwright-orangehrm-e2e
